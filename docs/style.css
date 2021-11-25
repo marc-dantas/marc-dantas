@@ -11,7 +11,7 @@ header {
   text-align: center;
 }
 header h1 {
-  font-family: Consolas;
+  font-family: monospace;
 }
 header h2 {
   font-weight: 900;
@@ -20,6 +20,7 @@ header h2 {
 main {
   padding: 20px;
   margin: auto;
+  background: #57606f;
 }
 
 footer {
@@ -34,9 +35,34 @@ footer {
   background: #2f3542;
   color: #a4b0be;
   margin: auto;
-  padding: 20px;
+  padding: 10px;
   border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.info {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background: #e6e6e6;
+  color: #2f3542;
+}
+.info h1 {
+  font-weight: 900;
+}
+.info p {
+  font-size: 14px;
+}
+.info ul {
+  list-style: none;
+  display: block;
+}
+.info ul li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+.info ul li a {
+  color: #57606f;
 }
 
 /*# sourceMappingURL=style.css.map */

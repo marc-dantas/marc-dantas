@@ -15,13 +15,14 @@ header
     padding: 10px
     text-align: center
     & h1
-        font-family: Consolas
+        font-family: monospace
     & h2
         font-weight: 900
 
 main
     padding: 20px
     margin: auto
+    background: $tertiary
 
 footer
     background-color: $primary
@@ -34,6 +35,25 @@ footer
     background: $quaternary
     color: $primary
     margin: auto
-    padding: 20px
+    padding: 10px
     border-radius: 5px
-    
+
+.info
+    padding: 10px
+    margin: 10px
+    border-radius: 5px
+    background: $event
+    color: $quaternary
+    & h1
+        font-weight: 900
+    & p
+        font-size: 14px
+    & ul
+        list-style: none
+        display: block
+        & li
+            margin-top: 10px
+            margin-bottom: 10px
+            font-size: 17px
+            & a
+                color: $tertiary
