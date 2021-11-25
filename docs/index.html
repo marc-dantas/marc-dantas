@@ -12,6 +12,7 @@
     <header>
         <h1>Marcio Dantas</h1>
         <h2>Software Developer</h2>
+        <p id="secret"></p>
     </header>
     <main>
         <div class="container">
@@ -90,16 +91,22 @@
         </div>
     </main>
     <footer>
-        <p>&copy; 2021 - Marcio Dantas</p>
+        <p>&copy; 2021 - Marcio Dantas | Development in a nutshell</p>
     </footer>
     <script>
         document.getElementById("email")
         .addEventListener('click', function() {
             let email = "marcio.dantas.pro@outlook.com";
-            // Copy the email to the clipboard and alert
             navigator.clipboard.writeText(email).then(function() {
                 alert(`Email copied to clipboard: ${email}`);
             });
+        });
+
+        document.addEventListener('keydown', function(event) {
+            if (event.keyCode === 13) {
+                document.getElementById("secret")
+                .innerHTML = "You found the secret!";
+            }
         });
     </script>
 </body>
