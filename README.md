@@ -1,7 +1,6 @@
 <h3> :man: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; I'm studying **_PHP_** and **_Linux_**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
