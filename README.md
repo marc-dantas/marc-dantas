@@ -26,8 +26,7 @@
 
 **My Operating Systems**
 
-  ![Manjaro](https://img.shields.io/badge/Manjaro-XFCE-35BF5C?style=flat&logo=manjaro&logoColor=fff)
-  ![Windows](https://img.shields.io/badge/Windows-11-026FC3?style=flat&logo=microsoft&logoColor=fff)
+  ![Windows](https://img.shields.io/badge/Windows-10-026FC3?style=flat&logo=windows&logoColor=fff)
   
 **Stats**
 
