@@ -1,113 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="shortcut icon" href="resources/img/favicon.png" type="image/png">
-    <link rel="stylesheet" href="resources/style.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marcio Dantas Website</title>
+    <title>Marcio Dantas</title>
 </head>
 <body>
-    <header>
-        <h1>Marcio Dantas</h1>
-        <h2>Software Developer</h2>
-        <p id="secret"></p>
-    </header>
-    <main>
-        <div class="container">
-            <div class="info">
-                <h1>About Me</h1>
-                <p>
-                    I'm a Software Engineering student, 2 years of experience in the field of development.
-                    I'm a passionate developer, I love to create new things and I'm always looking for new challenges.
-                </p>
-            </div>
-            <div class="info">
-                <h1>My Skills</h1>
-                <div class="area">
-                    <h2>Languages & Tecnologies</h2>
-                    <ul>
-                        <li>HTML5</li>
-                        <li>CSS</li>
-                        <li>SASS</li>
-                        <li>Python</li>
-                        <li>JS</li>
-                    </ul>
-                </div>
-                <div class="area">
-                    <h2>Experiences</h2>
-                    <ul>
-                        <li>HTML5 with SASS and CSS to build simple websites</li>
-                        <li>Python to build simple/rubust apps</li>
-                        <li>JavaScript for web</li>
-                    </ul>
-                </div>
-                <div class="area">
-                    <h2>Knowledge</h2>
-                    <ul>
-                        <li>Advanced HTML and JavaScipt</li>
-                        <li>Intermediary in SASS and CSS</li>
-                        <li>Currently learning PHP (intermediary)</li>
-                        <li>Advanced Python 3</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="info">
-                <h1>My Projects</h1>
-                <div class="area">
-                    <a href="https://github.com/marc-dantas/to-do-list-javascript">JavaScript Todo list</a>
-                    <p>A to-do list made with JavaScript and Bootstrap.</p>
-                </div>
-                <div class="area">
-                    <a href="https://github.com/marc-dantas/snake-editor">Snake Editor</a>
-                    <p>A Python code editor that looks like GNU Emacs.</p>
-                </div>
-                <div class="area">
-                    <a href="https://github.com/marc-dantas/3d-py-pong">3d-py-pong</a>
-                    <p>A 3D Pong game made in Python with Ursina Engine.</p>
-                </div>
-                <div class="area">
-                    <a href="https://github.com/marc-dantas/php-pdo-example">php-pdo-example</a>
-                    <p>A simple PHP example using PDO with MySQL.</p>
-                </div>
-            </div>
-            <div class="info">
-                <h1>Contact Me</h1>
-                <div class="area">
-                    <a href="mailto:marcio.dantas.pro@outlook.com">Email</a>
-                    <button id="email">Copy</button>
-                </div>
-                <div class="area">
-                    <a href="https://www.linkedin.com/in/marcio-dantas-7bba34223/">LinkedIn</a>
-                </div>
-                <div class="area">
-                    <a href="https://www.reddit.com/user/marcdantas">Reddit</a>
-                </div>
-                <div class="area">
-                    <a href="https://github.com/marc-dantas">Github</a>
-                </div>
-            </div>
-        </div>
-    </main>
-    <footer>
-        <p>&copy; 2021 - Marcio Dantas | Development in a nutshell</p>
-    </footer>
-    <script>
-        document.getElementById("email")
-        .addEventListener('click', function() {
-            let email = "marcio.dantas.pro@outlook.com";
-            navigator.clipboard.writeText(email).then(function() {
-                alert(`Email copied to clipboard: ${email}`);
-            });
-        });
-
-        document.addEventListener('keydown', function(event) {
-            if (event.keyCode === 13) {
-                document.getElementById("secret")
-                .innerHTML = "You found the secret!";
-            }
-        });
-    </script>
+    
 </body>
 </html>
