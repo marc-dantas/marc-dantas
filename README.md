@@ -23,10 +23,12 @@
   ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=normal&logo=visualstudiocode&logoColor=3BA4EA)
   ![PyCharm](https://img.shields.io/badge/PyCharm-333333?style=normal&logo=pycharm&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=normal&logo=sublimetext&logoColor=EE9702)
+  ![Github Desktop](https://img.shields.io/badge/-Github%20Copilot-333333?style=normal&logo=github&logoColor=fffff)
 
 **My Operating Systems**
 
-  ![Windows](https://img.shields.io/badge/Windows-10-026FC3?style=flat&logo=windows&logoColor=fff)
+  ![Windows 10](https://img.shields.io/badge/Windows-10-026FC3?style=flat&logo=windows&logoColor=fff)
+  ![Windows 11](https://img.shields.io/badge/Windows-11-026FC3?style=flat&logo=microsoft&logoColor=fff)
   
 **Stats**
 
