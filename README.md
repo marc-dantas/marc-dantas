@@ -1,6 +1,8 @@
 <h3> :man: &nbsp;About me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 Exploring new technologies and developing software solutions.
+
+- 🎓 Learning the [Rust programming language](https://www.rust-lang.org/).
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
