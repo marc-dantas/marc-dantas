@@ -26,6 +26,7 @@
 **🔧 Development Tools**
 
   ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=normal&logo=visualstudiocode&logoColor=3BA4EA)
+  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=normal&logo=visualstudio&logoColor=3BA4EA)
   ![Vim (sometimes)](https://img.shields.io/badge/Vim-eeeeee?style=normal&logo=vim&logoColor=007f00)
   ![Github Desktop](https://img.shields.io/badge/-Github%20Copilot-333333?style=normal&logo=github&logoColor=fffff)
 
