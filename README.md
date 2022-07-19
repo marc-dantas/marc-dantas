@@ -1,8 +1,7 @@
 ### :man: About me
 
 - 🤔 Exploring new experiences in this field and developing solutions using technology.
-- 🔨 Currently working on: My programming language ([SomeScript](https://github.com/marc-dantas/somescript)).
-- 🎓 Currently Learning: [C++](https://en.wikipedia.org/wiki/C%2B%2B).
+- 🎓 Currently Learning: [Godot Engine](https://godotengine.org/).
 
 ### :rocket: My Skills
 
