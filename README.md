@@ -14,7 +14,6 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=normal&logo=python&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=normal&logo=php&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-ef4a00?style=normal&logo=rust&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-005697?style=normal&logo=cplusplus&logoColor=white)
 
 **🪛 DevOps**
 
@@ -24,10 +23,8 @@
 
 **🔧 Development Tools**
 
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=normal&logo=visualstudiocode&logoColor=3BA4EA)
-  ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=normal&logo=visualstudio&logoColor=3BA4EA)
-  ![Vim (sometimes)](https://img.shields.io/badge/Vim-eeeeee?style=normal&logo=vim&logoColor=007f00)
-  ![Github Desktop](https://img.shields.io/badge/-Github%20Copilot-333333?style=normal&logo=github&logoColor=fffff)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=normal&logo=visualstudiocode&logoColor=3BA4EA)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=normal&logo=jetbrains)
 
 **🖥️ My Operating Systems**
 
