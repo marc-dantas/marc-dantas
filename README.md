@@ -5,7 +5,7 @@
 
 ### My programming skills
 
-**💾 Languages & Tecnologies**
+**💾 Languages & Technologies**
 
   ![HTML5](https://img.shields.io/badge/HTML-239120?style=normal&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS-239120?&style=normal&logo=css3&logoColor=white)
@@ -24,7 +24,6 @@
 **Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=normal&logo=visualstudiocode&logoColor=3BA4EA)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=normal&logo=jetbrains)
 
 ### My Operating Systems (Please don't hurt me!)
 
