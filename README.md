@@ -25,10 +25,8 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=normal&logo=visualstudiocode&logoColor=3BA4EA)
 
-### My Operating Systems (Please don't hurt me!)
-
-  ![Windows 10](https://img.shields.io/badge/Windows-10-026FC3?style=flat&logo=windows&logoColor=fff)
-  ![Windows 11](https://img.shields.io/badge/Windows-11-026FC3?style=flat&logo=microsoft&logoColor=fff)
+### My Operating System
+![Xubuntu](https://img.shields.io/badge/Xubuntu-22.4.1-026FC3?style=flat&logo=ubuntu&logoColor=fff)
 
 ### Where to find me
 
