@@ -8,11 +8,7 @@
 - Current Project: **[CuPER](https://github.com/marc-dantas/cuper)**.
 - OS: **Xubuntu 22.04**
 
----
-
 <h2 align="center">Skills</h2>
-
-
 <p align="center">(3 years of experience)</p>
 
 <h3 align="left">Front-end (client side)</h3>
