@@ -33,6 +33,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=fff)
   ![GitLab](https://img.shields.io/badge/-GitLab-d12?style=flat&logo=gitlab)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=marc-dantas&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-dantas&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align="center">Contact</h2>
 
