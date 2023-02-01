@@ -1,9 +1,8 @@
-<h1 align="center">Hi there ✋</h1>
+<div style="background-color:white;padding:5px;border-radius:10px"><img src="marciodantas.png"></div>
 
+---
 
-<h2 align="center">About me</h2>
-
-- Location: **State of São Paulo (SP) - Brazil**.
+  Location: **State of São Paulo (SP) - Brazil**.
 - Currently Learning: **[Go programming language](https://go.dev/)**.
 - Current Project: **[CuPER](https://github.com/marc-dantas/cuper)**.
 - OS: **Xubuntu 22.04**
