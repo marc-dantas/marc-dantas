@@ -1,6 +1,4 @@
-<div style="background-color:white;padding:5px;border-radius:10px"><img src="marciodantas.png"></div>
-
----
+<h1 align="center"><strong>Marcio Dantas</strong></h1>
 
   Location: **State of São Paulo (SP) - Brazil**.
 - Currently Learning: **[Go programming language](https://go.dev/)**.
