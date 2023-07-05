@@ -1,8 +1,6 @@
 <h1 align="center"><strong>Marcio Dantas</strong></h1>
 
-  Location: **State of São Paulo (SP) - Brazil**.
-- Currently Learning: **[Go programming language](https://go.dev/)**.
-- Current Project: **[CuPER](https://github.com/marc-dantas/cuper)**.
+- Location: **State of São Paulo (SP) - Brazil**.
 - OS: **Xubuntu 22.04**
 
 <h2 align="center">Skills</h2>
