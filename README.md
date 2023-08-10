@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Marcio Dantas</strong></h1>
 
 - Location: **State of São Paulo (SP) - Brazil**.
-- OS: **Xubuntu 22.04**
+- OS: **Windows 11**
 
 <h2 align="center">Skills</h2>
 <p align="center">(3 years of experience)</p>
@@ -18,7 +18,7 @@
 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=normal&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005d85?style=normal&logo=mysql&logoColor=white)
-  ![Python (i'm a expert ngl)](https://img.shields.io/badge/Python-14354C?style=normal&logo=python&logoColor=white)
+  ![Python (i'm an expert ngl)](https://img.shields.io/badge/Python-14354C?style=normal&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-ef4a00?style=normal&logo=rust&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-8CBF3D?style=normal&logo=node.js&logoColor=white)
 
