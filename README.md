@@ -1,6 +1,6 @@
 <h1 align="center"><i>Marcio Dantas</i></h1>
 
-![Front-End Skills](https://skillicons.dev/icons?i=html,css,sass,js)<br>
+![Front-End Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts)<br>
 ![Back-End Skills](https://skillicons.dev/icons?i=php,mysql,py,rust,nodejs)
 
 
