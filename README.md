@@ -16,6 +16,9 @@
 
 ![](https://skillicons.dev/icons?i=c)
 
+# and... I love
+
+![](https://skillicons.dev/icons?i=python)
 
 ---
 
