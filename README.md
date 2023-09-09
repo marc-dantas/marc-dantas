@@ -1,8 +1,23 @@
 <h1 align="center"><i>Marcio Dantas</i></h1>
 
-![Front-End Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts)<br>
-![Back-End Skills](https://skillicons.dev/icons?i=php,mysql,py,rust,nodejs)
+# **I know**
 
+![](https://skillicons.dev/icons?i=html,css,sass,js,ts)<br>
+![](https://skillicons.dev/icons?i=php,mysql,py,rust,nodejs)
+
+# **I can work with**
+
+![](https://skillicons.dev/icons?i=django,react,express)
+
+# I also like
+![](https://skillicons.dev/icons?i=c,go,godot,julia)
+
+# I want to be better at
+
+![](https://skillicons.dev/icons?i=c)
+
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-dantas&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
