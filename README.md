@@ -7,7 +7,7 @@
 
 # **I can work with**
 
-![](https://skillicons.dev/icons?i=django,react,express)
+![](https://skillicons.dev/icons?i=django,react,postgres)
 
 # I also like
 ![](https://skillicons.dev/icons?i=c,go,godot,julia)
