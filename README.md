@@ -6,7 +6,7 @@
 ![backend](https://skillicons.dev/icons?i=php,mysql,py,rust,nodejs)<br>
 ![](https://skillicons.dev/icons?i=django,react,postgres)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-dantas&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-dantas&theme=holi&layout=compact)
 
 ![View Counter](https://komarev.com/ghpvc/?username=marc-dantas)
 
