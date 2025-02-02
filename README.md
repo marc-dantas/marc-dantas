@@ -9,8 +9,7 @@
 ![backend](https://skillicons.dev/icons?i=django,mysql,postgres,nodejs,react)<br>
 ![](https://skillicons.dev/icons?i=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-dantas&theme=dark)
-
+![marc-dantas' GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-dantas\&theme=dark\&rank_icon=github\&hide=contribs\&show_icons=true)
 ---
 
 [![X: Marcio Dantas](https://img.shields.io/badge/-Marcio_Dantas-black?style=flat&logo=X&logoColor=white)](https://x.com/marc_dantas)
