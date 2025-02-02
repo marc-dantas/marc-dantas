@@ -2,12 +2,11 @@
 
 # Marcio Dantas
 
-![frontend](https://skillicons.dev/icons?i=python,rust,ts)<br>
+![Main Languages](https://skillicons.dev/icons?i=python,rust,ts)<br>
 
+![Other languages](https://skillicons.dev/icons?i=c,lua,go,php)<br>
 
-
-![backend](https://skillicons.dev/icons?i=django,mysql,postgres,nodejs,react)<br>
-![](https://skillicons.dev/icons?i=)
+![Technologies](https://skillicons.dev/icons?i=django,mysql,postgres,nodejs,react)<br>
 
 ![marc-dantas' GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-dantas\&theme=dark\&rank_icon=github\&hide=contribs\&show_icons=true)
 ---
